@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## Array
 |  |
 | ------- |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->

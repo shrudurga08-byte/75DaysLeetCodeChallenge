@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |

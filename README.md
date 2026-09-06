@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

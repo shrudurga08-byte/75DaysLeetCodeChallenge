@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |

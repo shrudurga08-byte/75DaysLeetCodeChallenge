@@ -1,6 +1,5 @@
 class Solution {
-    public int minEatingSpeed(int[] piles, int h) {
-
+      public int minEatingSpeed(int[] piles, int h) {
         int low = 1;
         int high = 0;
 
@@ -10,6 +9,7 @@ class Solution {
 
         while (low < high) {
             int k = low + (high - low) / 2;
+
 
             long hours = 0;
 
@@ -25,5 +25,5 @@ class Solution {
         }
 
         return low;
+    }   
     }
-}

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
@@ -327,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->

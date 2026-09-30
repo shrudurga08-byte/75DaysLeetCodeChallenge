@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 | [2542-maximum-subsequence-score](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

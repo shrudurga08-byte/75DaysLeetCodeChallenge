@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization

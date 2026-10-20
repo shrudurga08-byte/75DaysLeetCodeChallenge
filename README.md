@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
+| [1768-merge-strings-alternately](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |

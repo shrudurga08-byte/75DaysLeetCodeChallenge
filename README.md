@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |

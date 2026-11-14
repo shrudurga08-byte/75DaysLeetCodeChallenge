@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |
+| [1480-running-sum-of-1d-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |

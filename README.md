@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1268-search-suggestions-system) |

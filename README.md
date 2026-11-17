@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |

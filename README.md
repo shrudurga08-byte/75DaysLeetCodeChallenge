@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0136-single-number) |

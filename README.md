@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
 |  |

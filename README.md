@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrudurga08-byte/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
